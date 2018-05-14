@@ -229,14 +229,7 @@ public class FrameCDCollection_A4_U3 extends javax.swing.JFrame {
        //remove the song that has been typed in by the user 
         song.remove(textAddSong.getText());
     }
-
-
-
-
-
-//when you press remove, remove songs in your cd collection 
-      // song.remove(song.size()-1);
-
+        
     }//GEN-LAST:event_buttonRemoveActionPerformed
 
     /**
